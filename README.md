@@ -1,5 +1,5 @@
 # Sample
-This will list of examples done in libgdx/box2d. 
+This is a list of examples done in libgdx/box2d. 
 
 To run this code in windows as desktop application, do the following steps
 1) Build->Make Project
